@@ -1,1 +1,0 @@
-{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\n\nconst user = ({\n  url: {\n    query: {\n      name\n    }\n  }\n}) => __jsx(\"div\", null, \"Users page \", __jsx(\"br\", null), name);\n\nexport default user;","map":null,"metadata":{},"sourceType":"module"}
